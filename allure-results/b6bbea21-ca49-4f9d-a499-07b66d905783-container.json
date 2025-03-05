@@ -1,0 +1,1 @@
+{"uuid":"b6bbea21-ca49-4f9d-a499-07b66d905783","name":"ge.tbc.testautomation.tests.Test1","children":["592a3752-2375-41e3-bb48-57692b4563ca"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1741190605059,"stop":1741190606911}],"afters":[],"start":1741190605039,"stop":1741190623387}
