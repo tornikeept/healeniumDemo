@@ -1,0 +1,16 @@
+[
+  {
+    "name": "auditRan",
+    "expected": 1,
+    "actual": 0,
+    "values": [
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "\"performance\" is not a known audit.",
+    "auditId": "performance",
+    "level": "error",
+    "url": "https://www.booking.com/"
+  }
+]

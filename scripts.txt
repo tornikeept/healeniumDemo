@@ -1,0 +1,6 @@
+
+npm install -g @lhci/cli
+
+შევქმნათ  .lighthouserc.json  მთავარ დირექტორიაში და დავაფეისთოთ ჯსონ
+lhci autorun
+lhci collect --config=.lighthouserc.json --settings.preset=desktop && lhci upload

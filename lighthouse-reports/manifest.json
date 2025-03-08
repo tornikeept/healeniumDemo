@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://example.com/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/Users/tornikeepitashvili/Documents/Documents - Tornike’s MacBook Pro/code/final-practice/healeniumDemo/lighthouse-reports/example_com-_-2025_03_08_12_27_40.report.html",
+    "jsonPath": "/Users/tornikeepitashvili/Documents/Documents - Tornike’s MacBook Pro/code/final-practice/healeniumDemo/lighthouse-reports/example_com-_-2025_03_08_12_27_40.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.88,
+      "best-practices": 0.96,
+      "seo": 0.9
+    }
+  }
+]
